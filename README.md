@@ -4,9 +4,8 @@
 ## 👩‍💻 개발 기간 및 인원
 - 개발 기간 : 2023/05/26 ~ 2023/06/09
 - 개발 인원 : 프론트엔드 4명 , 백엔드 2명
-  - Product Manager: 손자현(F)
-  - Project Manager: 김민지(F)
-  - Teammates: 김민정(F), 옥준우(F), 김상우(B), 하진희(B)
+  - Frontend: 김민정, 김민지, 손자현, 옥준우,
+  - Backend: 김상우(B), 하진희(B)
 - 깃헙 레포지토리
   - [Frontend](https://github.com/wecode-bootcamp-korea/46-1st-Code200-frontend.git)
   - [Backend](https://github.com/wecode-bootcamp-korea/46-1st-Code200-backend.git)
