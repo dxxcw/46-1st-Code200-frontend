@@ -40,6 +40,8 @@
 
 ### 약관동의(체크박스)
 ![동의](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/f420c8bb-03a0-466c-b473-033b49a2bdfa)
+
+### 한 줄 리뷰 등록
 ![Jun-10-2023 16-28-40](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/04ff4422-2bb2-45ca-bfd2-50f2a8ea56bf)
 
 ## 📚 기술 스택
