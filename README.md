@@ -26,16 +26,19 @@
 
 ## 🖼️ 구현 화면
 
-# 메인페이지 캐러셀
+### 메인페이지 캐러셀
 ![Jun-10-2023 14-59-00](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/8426cc32-a898-4fe1-89bc-fa5fd5f8d307)
 
-# 메인페이지 탭
+### 메인페이지 탭
 ![Jun-10-2023 15-37-02](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/1f6e29e5-ca33-450e-a9a7-31adce2d7f44)
 
-# 메인페이지 hover
+### 메인페이지 hover
 ![Jun-10-2023 15-50-32](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/dac19ee2-7c1a-4da2-a287-036b10988712)
 
+### 이메일 중복체크 및 유효성 검사
 ![중복체크](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/888b059b-8c61-46a0-b553-60de1cad8c23)
+
+### 약관동의(체크박스)
 ![동의](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/f420c8bb-03a0-466c-b473-033b49a2bdfa)
 ![Jun-10-2023 16-28-40](https://github.com/dxxcw/46-1st-Code200-frontend/assets/122979057/04ff4422-2bb2-45ca-bfd2-50f2a8ea56bf)
 
